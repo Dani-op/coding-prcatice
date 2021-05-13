@@ -18,7 +18,31 @@ namespace Coding_C_sharp_with_LewisJHill
 
 
 
-
+            for (int i = 0; i <= 6000; i++)
+            {
+                dice = rand.Next(7);
+                switch (dice)
+                {
+                    case 1:
+                        number1++;
+                        break;
+                    case 2:
+                        number2++;
+                        break;
+                    case3:
+                        number3++;
+                        break;
+                    case 4:
+                        number4++;
+                        break;
+                    case 5:
+                        number5++;
+                        break;
+                    case 6:
+                        number6++;
+                        break;
+                }
+            }
 
 
 

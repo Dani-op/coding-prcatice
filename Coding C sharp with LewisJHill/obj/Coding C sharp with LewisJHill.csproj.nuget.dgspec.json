@@ -10,14 +10,14 @@
         "projectUniqueName": "H:\\coding-prcatice\\Coding C sharp with LewisJHill\\Coding C sharp with LewisJHill.csproj",
         "projectName": "Coding C sharp with LewisJHill",
         "projectPath": "H:\\coding-prcatice\\Coding C sharp with LewisJHill\\Coding C sharp with LewisJHill.csproj",
-        "packagesPath": "C:\\Users\\hilllj4\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\ghaud1\\.nuget\\packages\\",
         "outputPath": "H:\\coding-prcatice\\Coding C sharp with LewisJHill\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hilllj4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ghaud1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
