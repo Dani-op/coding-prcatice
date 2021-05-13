@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Coding C sharp with LewisJHill/1.0.0": {
+        "runtime": {
+          "Coding C sharp with LewisJHill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coding C sharp with LewisJHill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+H:\coding-prcatice\Coding C sharp with LewisJHill\bin\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.exe
+H:\coding-prcatice\Coding C sharp with LewisJHill\bin\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.deps.json
+H:\coding-prcatice\Coding C sharp with LewisJHill\bin\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.runtimeconfig.json
+H:\coding-prcatice\Coding C sharp with LewisJHill\bin\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.runtimeconfig.dev.json
+H:\coding-prcatice\Coding C sharp with LewisJHill\bin\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.dll
+H:\coding-prcatice\Coding C sharp with LewisJHill\bin\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.pdb
+H:\coding-prcatice\Coding C sharp with LewisJHill\obj\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.csprojAssemblyReference.cache
+H:\coding-prcatice\Coding C sharp with LewisJHill\obj\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.AssemblyInfoInputs.cache
+H:\coding-prcatice\Coding C sharp with LewisJHill\obj\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.AssemblyInfo.cs
+H:\coding-prcatice\Coding C sharp with LewisJHill\obj\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.csproj.CoreCompileInputs.cache
+H:\coding-prcatice\Coding C sharp with LewisJHill\obj\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.dll
+H:\coding-prcatice\Coding C sharp with LewisJHill\obj\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.pdb
+H:\coding-prcatice\Coding C sharp with LewisJHill\obj\Debug\netcoreapp3.1\Coding C sharp with LewisJHill.genruntimeconfig.cache
